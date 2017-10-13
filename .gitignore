@@ -1,0 +1,13 @@
+
+.classpath
+*.bin
+*.lock
+.gradle/buildOutputCleanup/cache.properties
+.project
+.settings/org.eclipse.buildship.core.prefs
+bin/com/bcp/KiranMain.class
+*.class
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
