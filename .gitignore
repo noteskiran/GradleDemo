@@ -11,3 +11,17 @@ gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 gradlew
 gradlew.bat
+build/distributions/GradleDemo.tar
+build/distributions/GradleDemo.zip
+build/libs/GradleDemo.jar
+build/reports/tests/test/classes/LibraryTest.html
+build/reports/tests/test/css/base-style.css
+*.css
+build/reports/tests/test/index.html
+build/reports/tests/test/js/report.js
+build/reports/tests/test/packages/default-package.html
+build/scripts/GradleDemo
+build/scripts/GradleDemo.bat
+build/test-results/test/binary/output.bin.idx
+build/test-results/test/TEST-LibraryTest.xml
+build/tmp/jar/MANIFEST.MF
